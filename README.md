@@ -2,4 +2,4 @@
 
 netfd is a Go package to get file descriptor from net.Conn or net.Listener.
 
-[![GoDoc](https://godoc.org/github.com/higebu/netfd?status.svg)](https://godoc.org/github.com/higebu/netfd)
+[![Go Reference](https://pkg.go.dev/badge/github.com/higebu/netfd.svg)](https://pkg.go.dev/github.com/higebu/netfd)
